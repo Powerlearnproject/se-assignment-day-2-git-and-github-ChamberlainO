@@ -166,6 +166,7 @@ Issues and Project Boards are essential tools on GitHub that significantly enhan
 
 # How Issues Help in Tracking Bugs and Managing Tasks
 1. Tracking Bugs:
+
 Bug Reporting: Issues allow developers and users to report bugs directly within the repository. Each issue can describe the problem, provide context, and include steps to reproduce the bug. This centralized bug tracking ensures that all known issues are documented and easily accessible.
 
 Prioritization: Issues can be labeled, prioritized, and assigned to team members, making it easier to focus on the most critical bugs first. Labels like "bug," "critical," or "low priority" help categorize issues for better management.
@@ -182,6 +183,7 @@ Milestones: Issues can be grouped into milestones, which represent significant s
 
 # How Project Boards Improve Project Organization
 1. Visual Task Management:
+
 Kanban-Style Boards: GitHub Project Boards offer a Kanban-style interface, where issues (or tasks) can be visualized as cards in columns. Columns typically represent stages in the workflow, such as "To Do," "In Progress," and "Done." This visual representation helps teams quickly see the status of tasks and the overall progress of the project.
 
 Customizable Workflows: Project Boards are highly customizable, allowing teams to create workflows that match their specific needs. Columns can be customized, and tasks can be moved between columns as they progress. This flexibility makes Project Boards suitable for different types of projects, whether they are agile, waterfall, or hybrid.
